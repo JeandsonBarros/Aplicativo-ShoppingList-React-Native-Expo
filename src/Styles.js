@@ -10,7 +10,7 @@ export default StyleSheet.create({
     },
     navBar: {
         backgroundColor: "#dbdbdb",
-        height: 60,
+        
         width: '100%',
         justifyContent: 'space-between',
         flexDirection: 'row',
