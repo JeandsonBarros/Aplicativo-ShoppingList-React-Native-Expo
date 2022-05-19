@@ -20,6 +20,7 @@ export default StyleSheet.create({
         fontSize: 39,
         paddingLeft: 10,
         color: "#444",
+        width: "80%"
     },
 
 
