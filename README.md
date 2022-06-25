@@ -3,7 +3,7 @@
 ## Descrição:
 Aplicativo para gerenciamento de listas de compras desenvolvido para Android com React Native Expo.
 
-![Figure 1](./print.png)
+![Figure 1](./print.jpg)
 
 ## Funcionalidades: 
 Listar, buscar, criar, editar e excluir listas de compras.\
